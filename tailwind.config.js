@@ -7,6 +7,7 @@ export default {
         mont: ["Montserrat", "sans-serif"],
         Inter: ["Inter", "sans-serif"],
         openSans: ["Open Sans", "sans-serif"],
+        space: ["Space Grotesk", "sans-serif"],
       },
     },
   },

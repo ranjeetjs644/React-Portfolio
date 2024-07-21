@@ -6,7 +6,7 @@ function Educations() {
       <Helmet>
         <title>Projects</title>
       </Helmet>
-      <div></div>
+      <div id="projects" className="w-screen h-screen"></div>
     </>
   );
 }

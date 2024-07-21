@@ -7,7 +7,7 @@ function Skills() {
       <Helmet>
         <title>Skills</title>
       </Helmet>
-      <div className="w-screen h-screen"></div>
+      <div id="skills" className="w-screen h-screen"></div>
     </>
   );
 }
